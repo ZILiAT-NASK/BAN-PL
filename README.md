@@ -22,7 +22,7 @@ The “harmful” class was compiled over a period ranging from June 2013 to Jun
 
 For token statistics by class see the table below:
 
-![Statistics by class](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/imgs/BAN_PL_stats.png)
+![Statistics by class](https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/BAN_PL_stats.png)
 
 ### Data anonymization
 Due to the presence of personal data, such as home and email addresses, phone numbers or identification numbers, within the dataset, a comprehensive anonymization approach was imperative. Usernames and hyperlinks have also been masked. In order to prevent the further spread of offensive content, the anonymization process also encompassed the surnames and pseudonyms of individuals targeted by such content. It has been decided that fictional characters, historical figures and deceased individuals are to remain non-anonymized. 
