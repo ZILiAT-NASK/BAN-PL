@@ -1,11 +1,11 @@
-# BAN-PL: a Polish Dataset of Banned Harmful and Offensive Content from Wykop.pl web service
+# BAN-PL: a Polish Dataset of Banned Harmful and Offensive Content from Wykop.pl Web Service
 
 ![Thumbnail](https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/thumbnail.png)
 
 <h6> **Caution: This dataset includes instances of text that may be deemed inappropriate, offensive, or distressing.**
 Note: The purpose of this dataset is strictly for research and study purposes. It is imperative that this data is not employed in any operational or real-world applications unless accompanied by thorough filtering and oversight. The creators and collaborators of this dataset hold no responsibility for any misapplication or adverse outcomes arising from the utilization of this data. Users are accountable for adhering to all pertinent legal statutes and regulations concerning data utilization and confidentiality. </h6>
 
-**The repository contains the first publicly available dataset of offensive and harmful content banned from a web service (Wykop. pl, often called the "Polish Reddit") by professional moderators.** Thanks to the Wykop owners, the banned posts and comments have been reclaimed and preprocessed for public usage. The current version of the dataset consists of **24 000 samples** of anonymized content, with 12 000 pieces for the "offensive" and 12 000 for the "neutral" (non-harmful) class. It is the first part of the entire set of about 700 000 samples that have been acquired but still need to be processed before launching. In the near future, we will continue to release further batches.
+**The repository contains the first publicly available dataset of offensive and harmful content banned from a web service (Wykop. pl, often called the "Polish Reddit") by professional moderators.** Thanks to the Wykop owners, the banned posts and comments have been reclaimed and preprocessed for public usage. The current version of the dataset consists of **24 000 samples** of anonymized content, with 12 000 pieces for the "harmful" and 12 000 for the "neutral" (non-harmful) class. It is the first part of the entire set of about 700 000 samples that have been acquired but still need to be processed before launching. In the near future, we will continue to release further batches.
 
 Wykop.pl has its internal moderation policy and resulting taxonomy, e.g., content inciting hatred or violence (i.e., "Propagation of hatred or violence, drastic content," "Hatred or violence") and content containing personal attacks (i.e., "Attacks me or violates my personal rights," "Attacks me," "Attacks others"). The first preprocessing step included joining these original moderation categories into one "harmful" type. 
 
