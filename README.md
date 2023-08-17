@@ -25,7 +25,13 @@ We provide cleaning functions and regex expressions if you wish to apply further
 
 For token statistics by class see the table below:
 
-![Statistics by class](https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/BAN_PL_stats.png)
+| Dataset class                                       | count        | mean   | std    | 25% | 50% | 75% |
+|-----------------------------------------------------|--------------|--------|--------|-----|-----|-----|
+| **Harmful total (n = 345,831)**                     | 12,064,249   | 34.88  | 98.48  | 10  | 17  | 35  |
+| **Harmful flagged (n = 148,386)**                   | 7,392,680    | 37.44  | 118.05 | 10  | 18  | 35  |
+| **Harmful predicted (n = 197,445)**                 | 4,671,569    | 31.48  | 63.55  | 11  | 18  | 34  |
+| **Neutral (n = 345,831)**                           | 14,143,837   | 40.90  | 55.87  | 13  | 24  | 47  |
+
 
 ## Disclaimer
 It is important to acknowledge that certain comments featured within this dataset might have originally been part of a multi-modal content, involving not only textual elements but also accompanying images or videos. The absence of these supplementary modalities could potentially result in a misinterpretation of the initially prohibited textual content. We are dedicated to thorough data refinement efforts aimed at minimizing such instances.
