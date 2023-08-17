@@ -7,9 +7,10 @@ Note: The purpose of this dataset is strictly for research and study purposes. I
 
 **The repository contains the first publicly available dataset of offensive and harmful content banned from a web service (Wykop. pl, often called the "Polish Reddit") by professional moderators.** Thanks to the Wykop owners, the banned posts and comments have been reclaimed and preprocessed for public usage. The current version of the dataset consists of **24 000 samples** of anonymized content, with 12 000 pieces for the "offensive" and 12 000 for the "neutral" (non-harmful) class. It is the first part of the entire set of about 700 000 samples that have been acquired but still need to be processed before launching. In the near future, we will continue to release further batches.
 
-Wykop.pl has its internal moderation policy and resulting taxonomy, e.g., content inciting hatred or violence (i.e., "Propagation of hatred or violence, drastic content," "Hatred or violence") and content containing personal attacks (i.e., "Attacks me or violates my personal rights," "Attacks me," "Attacks others"). The first preprocessing step included joining these original moderation categories into one "offensive" type. 
+Wykop.pl has its internal moderation policy and resulting taxonomy, e.g., content inciting hatred or violence (i.e., "Propagation of hatred or violence, drastic content," "Hatred or violence") and content containing personal attacks (i.e., "Attacks me or violates my personal rights," "Attacks me," "Attacks others"). The first preprocessing step included joining these original moderation categories into one "harmful" type. 
 
 The contrasting "neutral" class was collected from the main page of the web service. It includes only posts and comments older than at least 48 hours. The human moderation dynamics of the platform let us assume that the remaining (not banned) content after this period can be considered non-harmful.  
+
 The "harmful" class encompasses entries and comments published between June 2013 to June 2023. The "neutral" type was collected between March and August 2021, between June and November 2022, and between January and June 2023.
 
 ## Anonymization
