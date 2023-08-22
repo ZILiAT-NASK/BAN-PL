@@ -38,11 +38,16 @@ Please contact the [Department of Linguistic Engineering and Text Analysis](mail
 ## Citation
 If you make use of this dataset, please cite the following paper.
 
+Okulska, I., Głąbińska, K., Kołos, A., Karlińska, A., Wiśnios, E., Nowakowski, A., Ellerik, P., Prałat, A. [*BAN-PL: a Novel Polish Dataset of Banned Harmful and Offensive Content from Wykop.pl web service*](https://arxiv.org/abs/2308.10592). 2023. https://doi.org/10.48550/arXiv.2308.10592.
+
+https://arxiv.org/abs/2308.10592
+
 ```
-@misc{okulska2023ban,
+@misc{okulska2023banpl,
       title={BAN-PL: a Novel Polish Dataset of Banned Harmful and Offensive Content from Wykop.pl web service}, 
       author={Inez Okulska and Kinga Głąbińska and Anna Kołos and Agnieszka Karlińska and Emilia Wiśnios and Adam Nowakowski and Paweł Ellerik and Andrzej Prałat},
       year={2023},
+      eprint={2308.10592},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
