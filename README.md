@@ -13,7 +13,7 @@ The contrasting "neutral" class was collected from the main page of the web serv
 
 The "harmful" class encompasses entries and comments published between June 2013 to June 2023. The "neutral" type was collected between March and August 2021, between June and November 2022, and between January and June 2023.
 
-The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).
+*The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).*
 
 ## Anonymization
 
