@@ -3,7 +3,7 @@
 1. **BAN_PL_1**
    - Upload Date: 16.08.2023
    - Rows: 24,000
-   - Classes: 0 – neutral, 1 – harmful 
+   - Classes: 0 – non-harmful, 1 – harmful 
    - Password: `BAN-PL_1`
    
 ## Disclaimer
