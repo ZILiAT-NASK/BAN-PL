@@ -35,7 +35,7 @@ We have prepared two functions to be used when working with data.
     ```ku**a -> kurwa
     pier*olnięty -> pierdolnięty
     odp#$!$%?ić -> odpierdolić
-    k0nfiarska -> k0nfiarska
+    k0nfiarska -> konfiarska
     Jeb@na -> Jebana
     P0lki -> Polki
     ```
