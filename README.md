@@ -11,7 +11,7 @@ Wykop.pl has its internal moderation policy and resulting taxonomy, e.g., conten
 
 The contrasting "neutral" class was collected from the main page of the web service. It includes only posts and comments older than at least 48 hours. The human moderation dynamics of the platform let us assume that the remaining (not banned) content after this period can be considered non-harmful.  
 
-The "harmful" class encompasses entries and comments published between June 2019 to June 2023. The "neutral" type was collected between March and August 2021, between June and November 2022, and between January and June 2023.
+The "harmful" class encompasses entries and comments published between Q1 2019 to June 2023. The "neutral" type was collected between March and August 2021, between June and November 2022, and between January and June 2023.
 
 *The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).*
 
