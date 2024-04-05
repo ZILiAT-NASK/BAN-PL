@@ -5,7 +5,15 @@
    - Rows: 24,000
    - Classes: 0 – non-harmful, 1 – harmful 
    - Password: `BAN-PL_1`
-   
+
+2. **BAN_PL_2**
+   - Upload Date: 05.04.2023
+   - Rows: 24,000
+   - Classes: 0 – non-harmful, 1 – harmful 
+   - Moderation reasons: There are four pseudonymized classes representing moderation reasons.
+   - Password: `BAN-PL_2`
+
+
 ## Disclaimer
 
 Please be aware that the data files within this repository are protected with passwords. This measure has been taken to prevent automatic scraping and unauthorized use, particularly for training language models (LLMs). We appreciate your understanding and cooperation in respecting these restrictions.
