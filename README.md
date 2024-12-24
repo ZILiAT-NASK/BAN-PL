@@ -15,7 +15,7 @@ The "harmful" class encompasses entries and comments published between Q1 2019 t
 
 *The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).*
 
-## Hate Speech Subcorpus
+## New release: Hate Speech Subcorpus
 ![HS](https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/HS.png)
 Building on the release of the BAN-PL dataset, which contains offensive social media content, we sought to advance our research into a crucial and socially significant subcategory of hate speech. To construct a subcorpus that adheres to the United Nations' definition of hate speech, we employed a rigorous 2+1 annotation process.
 
@@ -32,7 +32,6 @@ Depending on specific needs, researchers working with the dataset can choose to 
 The release of the Hate speech subcorpus includes:
 - 2000 samples labeled as “hate speech” (HS)
 - 263 samples labeled as war-related (W) 
-
 
 ## Anonymization
 
