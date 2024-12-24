@@ -15,6 +15,25 @@ The "harmful" class encompasses entries and comments published between Q1 2019 t
 
 *The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).*
 
+## Hate Speech Subcorpus
+![HS](https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/HS subcorpus.png)
+Building on the release of the BAN-PL dataset, which contains offensive social media content, we sought to advance our research into a crucial and socially significant subcategory of hate speech. To construct a subcorpus that adheres to the United Nations' definition of hate speech, we employed a rigorous 2+1 annotation process.
+
+United Nations defines hate speech as *any kind of communication in speech, writing or behaviour, that attacks or uses pejorative or discriminatory language with reference to a person or a group on the basis of who they are, in other words, based on their religion, ethnicity, nationality, race, colour, descent, gender or other identity factor.*
+
+This definition was expanded upon in the detailed guidelines provided to the annotators. The annotation process involved labeling 20,000 samples from the BAN-PL dataset, identifying 10% of posts and comments as meeting the criteria for hate speech (labeled as HS). Additionally, a separate label for war-related content (W) was introduced.
+
+In light of recent military conflicts, particularly in Ukraine and Israel, we recognized the importance of distinguishing between hate speech and war-related comments. When war-related discourse escalated into extremist statements targeting entire nations or ethnic groups, annotators were instructed to classify the content as hate speech, provided that such motivations are rooted in nationality or ethnicity-based grounds.
+
+However, many instances of social media content, despite employing offensive or hateful language, focused on criticizing military actions rather than stigmatizing entire nations or ethnicities. To address this nuance, we introduced the war-related label (W) to capture this type of content.
+
+Depending on specific needs, researchers working with the dataset can choose to use or ignore the war-related class. We believe this flexible approach will enhance the utility of the dataset and contribute meaningfully to the broader research community.
+
+The release of the Hate speech subcorpus includes:
+- 2000 samples labeled as “hate speech” (HS)
+- 263 samples labeled as war-related (W) 
+
+
 ## Anonymization
 
 To avoid reviving and spreading content once rightfully banned, we spent dozens of hours on human-checked anonymization of the data. The anonymization process included the surnames and pseudonyms of individuals, address details, URLS, ID, telephone numbers, and usernames mentioned in the conversations. 
