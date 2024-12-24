@@ -16,7 +16,7 @@ The "harmful" class encompasses entries and comments published between Q1 2019 t
 *The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).*
 
 ## Hate Speech Subcorpus
-![HS](https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/HS subcorpus.png)
+![HS](https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/HS.png)
 Building on the release of the BAN-PL dataset, which contains offensive social media content, we sought to advance our research into a crucial and socially significant subcategory of hate speech. To construct a subcorpus that adheres to the United Nations' definition of hate speech, we employed a rigorous 2+1 annotation process.
 
 United Nations defines hate speech as *any kind of communication in speech, writing or behaviour, that attacks or uses pejorative or discriminatory language with reference to a person or a group on the basis of who they are, in other words, based on their religion, ethnicity, nationality, race, colour, descent, gender or other identity factor.*
