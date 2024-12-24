@@ -16,12 +16,12 @@ The "harmful" class encompasses entries and comments published between Q1 2019 t
 *The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).*
 
 ## New release: Hate Speech Subcorpus
-![HS](https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/HS.png)
-Building on the release of the BAN-PL dataset, which contains offensive social media content, we sought to advance our research into a crucial and socially significant subcategory of hate speech. To construct a subcorpus that adheres to the United Nations' definition of hate speech, we employed a rigorous 2+1 annotation process.
+<img src="https://github.com/ZILiAT-NASK/BAN-PL/blob/main/imgs/HS.png" alt="HS" width="300">
+Building on the release of the BAN-PL dataset, which contains offensive social media content, we sought to advance our research into a crucial and socially significant subcategory of hate speech. To construct a subcorpus that adheres to the **United Nations' definition of hate speech**, we employed a rigorous 2+1 annotation process.
 
 United Nations defines hate speech as *any kind of communication in speech, writing or behaviour, that attacks or uses pejorative or discriminatory language with reference to a person or a group on the basis of who they are, in other words, based on their religion, ethnicity, nationality, race, colour, descent, gender or other identity factor.*
 
-This definition was expanded upon in the detailed guidelines provided to the annotators. The annotation process involved labeling 20,000 samples from the BAN-PL dataset, identifying 10% of posts and comments as meeting the criteria for hate speech (labeled as HS). Additionally, a separate label for war-related content (W) was introduced.
+This definition was expanded upon in the detailed guidelines provided to the annotators. The annotation process involved **labeling 20,000 samples from the BAN-PL dataset, identifying 10% of posts and comments (2000) as meeting the criteria for hate speech** (labeled as HS). Additionally, a separate label for war-related content (W) was introduced.
 
 In light of recent military conflicts, particularly in Ukraine and Israel, we recognized the importance of distinguishing between hate speech and war-related comments. When war-related discourse escalated into extremist statements targeting entire nations or ethnic groups, annotators were instructed to classify the content as hate speech, provided that such motivations are rooted in nationality or ethnicity-based grounds.
 
