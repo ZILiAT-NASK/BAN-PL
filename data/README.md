@@ -15,7 +15,7 @@
   
 3. **Hate Speech Subcorpus**
    - Upload Date: 24.12.2024
-   - Rows: 2,623
+   - Rows: 2,263
    - Classes: HS – hate speech, W –  war-related 
    - Moderation reasons: There are four pseudonymized classes representing moderation reasons.
    - Password: `HATE-WAR-PL_1`
