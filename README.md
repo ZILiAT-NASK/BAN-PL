@@ -31,11 +31,12 @@ However, many instances of social media content, despite employing offensive or 
 
 Depending on specific needs, researchers working with the dataset can choose to use or ignore the war-related class. We believe this flexible approach will enhance the utility of the dataset and contribute meaningfully to the broader research community.
 
-**The release of the Hate speech subcorpus includes:**
-- **2000 samples labeled as “hate speech” (HS)**
-- **263 samples labeled as war-related (W)**
+The release of the Hate speech subcorpus includes:
+- **2000 samples** labeled as “hate speech” (HS)
+- **263 samples** labeled as war-related (W)
 
-*The password-protected data stored within a .zip file, along with the password itself, can be found here.*
+*The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).*
+
 
 
 ## Anonymization
