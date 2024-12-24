@@ -21,7 +21,7 @@ Building on the release of the BAN-PL dataset, which contains offensive social m
 
 United Nations defines hate speech as *any kind of communication in speech, writing or behaviour, that attacks or uses pejorative or discriminatory language with reference to a person or a group on the basis of who they are, in other words, based on their religion, ethnicity, nationality, race, colour, descent, gender or other identity factor.*
 
-This definition was expanded upon in the detailed guidelines provided to the annotators. The annotation process involved **labeling 20,000 samples from the BAN-PL dataset, identifying 10% of posts and comments (2000) as meeting the criteria for hate speech** (labeled as HS). Additionally, a separate label for war-related content (W) was introduced.
+This definition was expanded upon in the detailed guidelines provided to the annotators. The annotation process involved **labeling 20,000 samples from the BAN-PL dataset, identifying 10% of posts and comments (2000) as meeting the criteria for hate speech** (labeled as HS). Additionally, a separate label for **war-related content** (W) was introduced.
 
 In light of recent military conflicts, particularly in Ukraine and Israel, we recognized the importance of distinguishing between hate speech and war-related comments. When war-related discourse escalated into extremist statements targeting entire nations or ethnic groups, annotators were instructed to classify the content as hate speech, provided that such motivations are rooted in nationality or ethnicity-based grounds.
 
