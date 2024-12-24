@@ -12,6 +12,13 @@
    - Classes: 0 – non-harmful, 1 – harmful 
    - Moderation reasons: There are four pseudonymized classes representing moderation reasons.
    - Password: `BAN-PL_2`
+  
+3.. **Hate Speech Subcorpus**
+   - Upload Date: 24.12.2024
+   - Rows: 2,623
+   - Classes: HS – hate speech, W –  war-related 
+   - Moderation reasons: There are four pseudonymized classes representing moderation reasons.
+   - Password: `HATE-WAR-PL_1`
 
 
 ## Disclaimer
