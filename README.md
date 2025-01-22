@@ -31,18 +31,14 @@ However, many instances of social media content, despite employing offensive or 
 
 Depending on specific needs, researchers working with the dataset can choose to use or ignore the war-related class. We believe this flexible approach will enhance the utility of the dataset and contribute meaningfully to the broader research community.
 
+*The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).*
+
 The release of the Hate speech subcorpus includes:
 - **2000 samples** labeled as “hate speech” (HS)
 - **263 samples** labeled as war-related (W)
 
 ## Supplementary resources
 **The Polish Language Dictionary of Hate Speech** comprises a curated list of 80 lexical units annotated with linguistic commentary. This dictionary captures the diversity of offensive language patterns, including derogatory terms, ethnic slurs (ethnophaulisms), low-frequency lexemes, and neologisms, reflecting the dynamic and evolving nature of Polish internet slang and informal expressions. The Dictionary (only available in Polish) can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/resources/Slownik_mowy_nienawisci.pdf).
-
-
-
-*The password-protected data stored within a .zip file, along with the password itself, can be found [here](https://github.com/ZILiAT-NASK/BAN-PL/tree/main/data).*
-
-
 
 ## Anonymization
 
